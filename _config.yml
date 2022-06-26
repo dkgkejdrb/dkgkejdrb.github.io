@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko_KR"
+locale                   : "ko"
 title                    : "DK STUDIO"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "이동규"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "한양대학교 공학대학원 컴퓨터공학과 석사 중 / Unity 클라이언트 개발자 도전!"
+  location         : "Seoul, Korea"
+  email            : "dkgkehdrb@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -130,25 +130,25 @@ author:
       # url: "https://instagram.com/"
 
 # Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+#footer:
+#  links:
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      # url:
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      # url:
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      # url:
+#    - label: "GitLab"
+#      icon: "fab fa-fw fa-gitlab"
+#      # url:
+#    - label: "Bitbucket"
+#      icon: "fab fa-fw fa-bitbucket"
+#      # url:
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
       # url:
 
 
@@ -286,7 +286,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true

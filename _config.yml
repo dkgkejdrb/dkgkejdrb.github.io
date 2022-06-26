@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko"
 title                    : "DK STUDIO"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "beyond the limits"
 name                     : "이동규"
-description              : "나의 연구일지"
+description              : "이동규의 연구일지 블로그 입니다."
 url                      : "https://dkgkejdrb.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

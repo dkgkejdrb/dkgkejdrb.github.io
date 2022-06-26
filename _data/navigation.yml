@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Thoughts"
-    url: #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /Thoughts/ #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "C#"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /C#/ #https://mmistakes.github.io/minimal-mistakes/about/
   - title: ".Net"
-    url: /year-archive/
+    url: /.Net/ #/year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

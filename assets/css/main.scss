@@ -9,5 +9,5 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 #reactions__container {
-    display: none;
+    display: none!important;
 }

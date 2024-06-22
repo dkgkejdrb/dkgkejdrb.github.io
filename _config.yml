@@ -115,7 +115,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "www.linkedin.com/in/lee-dong-kyu-453138158"
+      url: "https://www.linkedin.com/in/lee-dong-kyu-453138158"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
